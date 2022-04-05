@@ -41,7 +41,7 @@ const SectionWrapper = ({
 					{showBtn && (
 						<Button
 							assetUrl={assets.expo}
-							link='https://expo.dev/dilkash7/Dilkash-App?serviceType=classic&distribution=expo-go'
+							link='https://expo.dev/@dilkash7/Dilkash-App?serviceType=classic&distribution=expo-go'
 						/>
 					)}
 				</div>
